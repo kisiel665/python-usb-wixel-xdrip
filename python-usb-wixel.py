@@ -65,7 +65,7 @@ parakeet_passcode = "12345"
 # If you wired your wixel directly to the serial pins of the raspberry Pi set this to True
 # for usb connected wixels leave it set as False
 
-use_raspberry_pi_internal_serial_port = False
+use_raspberry_pi_internal_serial_port = True
 
 # Or you can store the configuration in a file which overrides whatever is set in this script
 
